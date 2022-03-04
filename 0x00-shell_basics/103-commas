@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -bpm
+ls -map
