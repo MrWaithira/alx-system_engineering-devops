@@ -1,2 +1,2 @@
 #!/bin/bash
-touch ls_cwd_state | ls -la > ls_cwd_state
+ls -la > ls_cwd-content
